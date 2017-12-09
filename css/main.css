@@ -171,6 +171,9 @@ p{
     margin-bottom: 4px !important;
     margin-top: 5px !important;
   }
+  footer { 
+    overflow: hidden;
+  }
   .ico{
     border: 4px double white;
     border-radius: 50%;
