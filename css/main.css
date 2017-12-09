@@ -67,7 +67,7 @@ p{
   font-size: 25px;
   margin-top: 20px;
   margin-bottom: 0px;
-  color:white;
+  color:black;
   font-family: 'Raleway', sans-serif;
   font-family: 'Roboto', sans-serif;
   font-family: 'Montserrat', sans-serif;
@@ -84,7 +84,7 @@ p{
 }
 
 .ico{
-  border: 4px double white;
+  border: 4px double blue;
   border-radius: 50%;
   display: inline-block;
   width: 20px;
@@ -98,7 +98,7 @@ p{
 }
 
 .ico-res{
-  border: 4px double white;
+  border: 4px double blue;
   border-radius: 50%;
   display: inline-block;
   width: 40px;
@@ -119,24 +119,24 @@ p{
   transform: translateY(-4px);
 }
 .ico:hover .fb{
-  color:white;
+  color:black;
 
 }
 
 .ico:hover .lin{
-  color:white;
+  color:black;
 }
 .ico:hover .git{
-  color:white;
+  color:black;
 }
 .ico:hover .mail{
-  color:white;
+  color:black;
 }
 .ico:hover .twit{
-  color:white;
+  color:black;
 }
 .ico-res:hover .res{
-  color:white;
+  color:black;
 }
 
 #bar {
