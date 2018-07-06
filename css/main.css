@@ -5,7 +5,9 @@ body {
   font:normal 75% Arial, Helvetica, sans-serif;
   overflow-y:hidden !important;
 }
-
+.col-sm > p {
+ display: none;
+ }
 
 .wrapper{
   overflow-y:hidden !important;
