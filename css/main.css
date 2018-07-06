@@ -9,10 +9,10 @@ body {
  display: none;
  }
 
-.wrapper{
+/*.wrapper{
   overflow-y:auto !important;
   overflow-x: hidden !important;
-}
+}*/
 /* ---- particles.js container ---- */
 
 #particles-js {
