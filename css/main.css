@@ -5,6 +5,9 @@ body {
   font:normal 75% Arial, Helvetica, sans-serif;
   overflow-y:hidden !important;
 }
+.col-sm{
+ display: none;
+ }
 
 .wrapper{
   overflow-y:hidden !important;
