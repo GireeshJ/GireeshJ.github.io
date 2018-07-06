@@ -201,12 +201,12 @@ p{
     display: inline-block;
     width: 20px;
     height: 20px;
-    padding: 10px 8px 8px 8px !important;
+    padding:  8px !important; 
     position: relative;
     background: transparent;
     transition: all 0.2s ease;
     text-decoration: none;
-    margin: 0px 8px !important;
+    margin: 0px 3px !important;
   }
 
   .fa-2x{
