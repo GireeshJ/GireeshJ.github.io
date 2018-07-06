@@ -179,7 +179,7 @@ p{
     overflow: hidden;
   }
   .ico{
-    border: 4px double white;
+    border: 4px double blue;
     border-radius: 50%;
     display: inline-block;
     width: 20px;
@@ -196,7 +196,7 @@ p{
     margin-bottom: 8px;
   }
   .ico-res{
-    border: 4px double white;
+    border: 4px double blue;
     border-radius: 50%;
     display: inline-block;
     width: 20px;
